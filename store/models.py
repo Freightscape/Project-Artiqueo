@@ -17,3 +17,4 @@ class Product(models.Model):
     title = models.CharField(max_length=255)
     artist = models.CharField(max_length=255, default='admin')
     description = models.TextField(blank=True)
+    image = models.ImageField(upload_to='images/')
