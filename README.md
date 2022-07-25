@@ -7,4 +7,5 @@ Resources:
 4. https://stackoverflow.com/questions/45554864/permission-denied-when-activating-venv
 5. https://docs.djangoproject.com/en/4.0/topics/install/
 6. https://www.codegrepper.com/code-examples/python/python+manage.py+startapp
+7. https://www.geeksforgeeks.org/slugfield-django-models/
 
