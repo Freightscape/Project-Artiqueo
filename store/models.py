@@ -12,4 +12,5 @@ class Category(models.Model):
         return self.name
 
 class Product(models.Model):
-    category = models.ForeignKey(Category)
+    category = models.ForeignKey(Category, related_name='product', on_delete=models.CASCADE)
+    created_by = models.ForeignKey(User, on_delete=models.CASCADE, related_name='product_creator')
