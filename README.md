@@ -9,4 +9,4 @@ Resources:
 6. https://www.codegrepper.com/code-examples/python/python+manage.py+startapp
 7. https://www.geeksforgeeks.org/slugfield-django-models/
 8. https://stackoverflow.com/questions/60623453/git-merge-conflict-i-dont-know-how-to-resolve
-
+9. https://stackoverflow.com/questions/16869024/what-is-pycache
