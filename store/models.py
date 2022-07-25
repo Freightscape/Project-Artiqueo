@@ -20,4 +20,4 @@ class Product(models.Model):
     image = models.ImageField(upload_to='images/')
     slug = models.SlugField(max_length=255)
     price = models.DecimalField(max_digits=5, decimal_places=2)
-    
+    in_stock = models.BooleanField(default=True)
