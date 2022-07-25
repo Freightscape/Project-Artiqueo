@@ -10,3 +10,4 @@ Resources:
 7. https://www.geeksforgeeks.org/slugfield-django-models/
 8. https://stackoverflow.com/questions/60623453/git-merge-conflict-i-dont-know-how-to-resolve
 9. https://stackoverflow.com/questions/16869024/what-is-pycache
+10. Installing collected packages: Pillow Successfully installed Pillow-9.2.
