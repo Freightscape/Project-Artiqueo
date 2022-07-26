@@ -11,3 +11,5 @@ class CategoryAdmin(admin.ModelAdmin):
 class ProductAdmin(admin.ModelAdmin):
     list_display = ['title', 'artist', 'slug', 'price', 'in-stock', 'created', 'updated']
     list_filter = ['in-stock', 'is-active']
+    list_editable = ['price', 'in_stock']
+    prepopulated_fields = {'slug': ('title',)}
