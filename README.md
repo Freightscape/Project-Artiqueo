@@ -12,6 +12,9 @@ Resources:
 9. https://stackoverflow.com/questions/16869024/what-is-pycache
 10. https://pypi.org/project/Pillow/ Installing collected packages: Pillow Successfully installed Pillow-9.2.
 11. https://stackoverflow.com/questions/30696863/vscode-not-auto-completing-html
+12. https://stackoverflow.com/questions/34248423/getting-404-error-when-loading-bootstrap-based-homepage-in-django
+13. https://dev.to/thalesbruno/django-bootstrap-basic-setup-5dmb
+14. https://getbootstrap.com/docs/4.3/getting-started/download/
 
 EXTENSIONS USED/INSTALLED:
 1. https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
