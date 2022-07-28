@@ -30,6 +30,10 @@ class Product(models.Model):
     class Meta:
         verbose_name_plural = 'Products'
         ordering = ('-created',)
+
+    def get_absolute_url(self):
+        return reverse("model_detail", kwargs={"pk": self.pk})
     
+
     def __str__(self):
         return self.title
